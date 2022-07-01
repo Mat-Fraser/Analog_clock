@@ -1,7 +1,7 @@
 
 ## Analog_clock
 
-Simple overview of use/purpose.
+Simple Analog clock with clean UI.
 
 ## Description
 
