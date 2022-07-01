@@ -7,5 +7,5 @@ Simple Analog clock with clean UI.
 
 An in-depth paragraph about your project and overview of use.
 
-## Getting Started
+## User Interface
 
