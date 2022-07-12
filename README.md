@@ -9,10 +9,10 @@ An Analog clock with clean UI with light mode and dark mode.
 
 ### Technology
 
--**HTML5**
--**CSS3**
--**JavaScript**
--****
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **SCSS**
 
 ## User Interface
 
